@@ -1,0 +1,26 @@
+body
+{
+	background-color: #ccccff; 
+}
+
+.Box_Field
+{
+	background-color:#cccccc;
+	padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+}
+
+.Dp_Pic
+{
+background-color: grey;
+	padding-top: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 24px 40px 0 rgba(0, 0, 0, 0.38);	
+}
+
+	
